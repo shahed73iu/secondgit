@@ -1,0 +1,5 @@
+E:\jalal sir(c#)\Resourse\AllClassPractices\ECommercePractice2\ECommerce.Web\ECommerce.Core\bin\Debug\netcoreapp3.0\ECommerce.Core.deps.json
+E:\jalal sir(c#)\Resourse\AllClassPractices\ECommercePractice2\ECommerce.Web\ECommerce.Core\bin\Debug\netcoreapp3.0\ECommerce.Core.dll
+E:\jalal sir(c#)\Resourse\AllClassPractices\ECommercePractice2\ECommerce.Web\ECommerce.Core\obj\Debug\netcoreapp3.0\ECommerce.Core.csprojAssemblyReference.cache
+E:\jalal sir(c#)\Resourse\AllClassPractices\ECommercePractice2\ECommerce.Web\ECommerce.Core\obj\Debug\netcoreapp3.0\ECommerce.Core.AssemblyInfoInputs.cache
+E:\jalal sir(c#)\Resourse\AllClassPractices\ECommercePractice2\ECommerce.Web\ECommerce.Core\obj\Debug\netcoreapp3.0\ECommerce.Core.AssemblyInfo.cs
